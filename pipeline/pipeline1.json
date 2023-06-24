@@ -1,0 +1,19 @@
+{
+	"name": "pipeline1",
+	"properties": {
+		"activities": [
+			{
+				"name": "Esperesenior",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 4
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2023-06-24T17:49:14Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

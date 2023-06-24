@@ -1,0 +1,9 @@
+{
+	"name": "adf-eus2-ltexam-joaco-dev",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "726dc586-f3c0-46c4-866c-5d945f329a4d",
+		"tenantId": "371ab23d-884c-40bd-b4d6-36bc3470ef62"
+	}
+}
