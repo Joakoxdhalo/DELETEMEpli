@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "adf-eus2-ltexam-joaco-dev"
 		},
+		"LS_ADLS_accountKey": {
+			"value": ""
+		},
+		"LS_ADLS_properties_typeProperties_url": {
+			"value": "https://adlseus2ltexamjoacodev.dfs.core.windows.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},
